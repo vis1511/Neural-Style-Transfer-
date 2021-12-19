@@ -10,7 +10,7 @@ Neural Style Transfer combines the content of one image and style of another ima
 
 `python neural_style_transfer.py --content_path="gal_gadot.jpg" --style_path="style6.jpg" --style_weight=100`
 
-##Results
+## Results
 
 ![Image](results/Figure_2.png)
 ![Image](results/Figure_4.png)
@@ -18,7 +18,7 @@ Neural Style Transfer combines the content of one image and style of another ima
 
 You can generate the above structured figures using the `show_results.py` file once the resulant image is saved.
 
-##Reference
+## Reference
 https://arxiv.org/abs/1508.06576 (Original NST Paper)
 https://www.youtube.com/playlist?list=PLBoQnSflObcmbfshq9oNs41vODgXG-608
 
