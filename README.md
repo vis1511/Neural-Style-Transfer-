@@ -5,7 +5,7 @@ Neural Style Transfer combines the content of one image and style of another ima
 ###To run the project 
 1. Download and extract the repository files.
 2. open your Anaconda promt from the repository folder 
-3. make sure you have all the requirements installed
+3. make sure you have all the requirements installed from `requirements.txt`
 4. run the following command in the terminal
 
 `python neural_style_transfer.py --content_path="gal_gadot.jpg" --style_path="style6.jpg" --style_weight=100`
