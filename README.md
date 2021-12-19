@@ -12,4 +12,16 @@ Neural Style Transfer combines the content of one image and style of another ima
 
 ##Results
 
+![Image](results/Figure_2.png)
+![Image](results/Figure_4.png)
+![Image](results/Figure_5.png)
+
+You can generate the above structured figures using the `show_results.py` file once the resulant image is saved.
+
+##Reference
+https://arxiv.org/abs/1508.06576 (Original NST Paper)
+https://www.youtube.com/playlist?list=PLBoQnSflObcmbfshq9oNs41vODgXG-608
+
+
+
 
