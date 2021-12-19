@@ -20,6 +20,7 @@ You can generate the above structured figures using the `show_results.py` file o
 
 ## Reference
 https://arxiv.org/abs/1508.06576 (Original NST Paper)
+
 https://www.youtube.com/playlist?list=PLBoQnSflObcmbfshq9oNs41vODgXG-608
 
 
